@@ -1,0 +1,23 @@
+# Build directory
+build/
+
+# Executables
+*.exe
+synth_presets
+
+# IDE specific files
+.vscode/
+.vs/
+
+# CMake build files
+CMakeFiles/
+CMakeCache.txt
+*.cmake
+Makefile
+
+# Compiled Object files
+*.o
+*.obj
+
+# Generated files
+*.json
